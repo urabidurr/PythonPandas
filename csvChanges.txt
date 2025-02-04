@@ -1,0 +1,12 @@
+Missing/Empty Values
+Line 131: Missing 1st type for Gyarados
+Line 48: Missing 1st type for Parasect
+Line 29: Missing Speed value for Sandslash
+Line 20: Missing Attack value for Rattata
+Incorrect Formatting
+
+Duplicates
+
+Incorrect Values
+Line 60: Incorrect Legendary status for Arcanine
+Line 107: Incorrect HP for Hitmonlee (Supposed to be 455)
