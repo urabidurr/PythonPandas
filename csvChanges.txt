@@ -1,12 +1,20 @@
 Missing/Empty Values
-Line 131: Missing 1st type for Gyarados
-Line 48: Missing 1st type for Parasect
-Line 29: Missing Speed value for Sandslash
-Line 20: Missing Attack value for Rattata
+Index #130 Missing 1st type for Gyarados
+Index #47 Missing 1st type for Parasect
+Index #28 Missing Speed value for Sandslash
+Index #19 Missing Attack value for Rattata
+
 Incorrect Formatting
+Index #65 Alakazam's Attack is String
+Index # Machamp's Attack is String
 
 Duplicates
+Index #132 Ditto duplicated once
+Index #41 Multiple Zubats. Must eradicate
 
 Incorrect Values
-Line 60: Incorrect Legendary status for Arcanine
-Line 107: Incorrect HP for Hitmonlee (Supposed to be 455)
+Index #59 Incorrect Legendary status for Arcanine
+Index #106 Incorrect HP for Hitmonlee (Supposed to be 455)
+Index #133 Incorrect Generation for Rhydon
+Index #55 Psychic secondary typing for Golduck
+Index #133,134,135 Secondary typings for all eeveelutions
