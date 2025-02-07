@@ -1,0 +1,23 @@
+Item Name,Category,Description,Amount
+Poke Ball,Pokeballs,Catches wild Pokémon.,55
+Great Ball,Pokeballs,Catches wild Pokémon with 1.5x the rate of a Poké Ball.,43
+Ultra Ball,Pokeballs,Catches wild Pokémon with 2x the rate of a Poké Ball.,429
+Quick Ball,Pokeballs,Catches wild Pokémon with a higher rate (5x) on the first turn of a battle.,124
+Dusk Ball,Pokeballs,Catches Pokémon at night or in caves with 3x the rate of a standard Poké Ball.,143
+Timer Balls,Pokeballs,Catches Pokémon with a higher rate the more turns have occurred (up to 4x).,41
+Master Ball,Pokeballs,Catches any wild Pokémon without fail.,3
+Potion,Medicine,Restores 20 HP.,17
+Super Potion,Medicine,Restores 60 HP.,6
+Hyper Potion,Medicine,Restores 120 HP.,39
+Max Potion,Medicine,Fully restores HP.,14
+Full Restore,Medicine,Fully restores HP and cures any status condition of a Pokémon.,73
+Fresh Water,Medicine,Restores 30 HP.,1500
+Lemonade,Medicine,Restores 70 HP.,375
+Repel, 2
+Super Repel, 1
+Max Repel, 287
+Escape Rope, 32
+Thunder Stone, 1
+Fire Stone, 2
+Water Stone, 999
+Moon Stone, 1
