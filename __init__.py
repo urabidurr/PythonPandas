@@ -8,3 +8,7 @@ mydataset = {
 myvar = pd.DataFrame(mydataset)
 
 print(myvar)
+
+pokemon = pd.read_csv("d1.csv")
+
+print(pokemon.to_string())

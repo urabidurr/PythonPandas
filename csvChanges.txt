@@ -18,3 +18,4 @@ Index #106 Incorrect HP for Hitmonlee (Supposed to be 455)
 Index #133 Incorrect Generation for Rhydon
 Index #55 Psychic secondary typing for Golduck
 Index #133,134,135 Secondary typings for all eeveelutions
+Index #6 Incorrect secondary typing for Charizard
