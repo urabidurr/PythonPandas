@@ -1,13 +1,26 @@
-Item Name, Amount
-Potion, 5
-Super Potion, 16
-Hyper Potion, 7
-Max Potion, 50
-Full Restore, 100
-Fresh Water, 500
-Lemonade, 68
-Repel, 2
-Super Repel, 17
-Max Repel, 86
-Fire Stone, 2
-Water Stone, 1500
+Item Name,Category,Description,Amount
+Poke Ball,Pokeballs,Catches wild Pokémon.,55
+Great Ball,Pokeballs,Catches wild Pokémon with 1.5x the rate of a Poké Ball.,43
+Ultra Ball,Pokeballs,Catches wild Pokémon with 2x the rate of a Poké Ball.,429
+Quick Ball,Pokeballs,Catches wild Pokémon with a higher rate (5x) on the first turn of a battle.,124
+Dusk Ball,Pokeballs,Catches Pokémon at night or in caves with 3x the rate of a standard Poké Ball.,143
+Timer Balls,Pokeballs,Catches Pokémon with a higher rate the more turns have occurred (up to 4x).,41
+Master Ball,Pokeballs,Catches any wild Pokémon without fail.,3
+Potion,Medicine,Restores 20 HP.,17
+Super Potion,Medicine,Restores 60 HP.,6
+Hyper Potion,Medicine,Restores 120 HP.,39
+Max Potion,Medicine,Fully restores HP.,14
+Full Restore,Medicine,Fully restores HP and cures any status condition of a Pokémon.,73
+Fresh Water,Medicine,Restores 30 HP.,1500
+Lemonade,Medicine,Restores 70 HP.,375
+Repel,General Items,An item that prevents weak wild Pokémon from appearing for 100 steps after its use.,2
+Super Repel,General Items,An item that prevents weak wild Pokémon from appearing for 200 steps after its use.,22
+Max Repel,General Items,An item that prevents weak wild Pokémon from appearing for 250 steps after its use.,287
+Escape Rope,General Items,"A long, durable rope. Use it to escape instantly from a cave or a dungeon.",32
+Fire Stone,General Items,Evolves certain species of Pokemon.,1
+Water Stone,General Items,Evolves certain species of Pokemon.,999
+Thunder Stone,General Items,Evolves certain species of Pokemon.,1
+Leaf Stone,General Items,Evolves certain species of Pokemon.,1
+Moon Stone,General Items,Evolves certain species of Pokemon.,1
+Sun Stone,General Items,Evolves certain species of Pokemon.,1
+Honey,General Items,"A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.",14
